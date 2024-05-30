@@ -60,6 +60,8 @@ p {
 }
 
 .home__wrapper {
+    margin-top: 20vh;
+    min-height: 80vh;
     height: 100vh;
     display: flex;
     justify-content: center;
